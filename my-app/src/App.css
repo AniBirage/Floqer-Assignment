@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+  color: black;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.MainTable {
+  padding: 20px;
+  background-color: black;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+}
+
+.MainTable-header {
+  text-align: center;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.MainTable-table {
+  margin-bottom: 20px;
+  background-color: black; /* Change background color to black */
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.1);
+  color: white;
+}
+
+.YearTrends {
+  margin-top: 20px;
+  background-color: black; /* Change background color to black */
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.1);
+  color: white;
+}
+
+.YearTrends-header {
+  text-align: center;
+  margin-bottom: 20px;
+  color: white;
+}
